@@ -1,4 +1,5 @@
-default: build
+
+3default: build
 
 all: test
 
